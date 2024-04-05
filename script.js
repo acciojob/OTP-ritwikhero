@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let inputElements = document.getElementsByClassName("code");
 console.log(inputElements.length)
 for(let i=0; i< inputElements.length; i++){
